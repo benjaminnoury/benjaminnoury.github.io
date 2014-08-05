@@ -1,0 +1,49 @@
+Internat & Hébergement
+
+CPGE TSI Troyes
+
+
+%!includeconf: config.t2t
+''' >>img/banniere-minidosa.jpg
+%!include: menu.t2t
+
+
+
+= Hébergement au lycée ( en internat )=
+Le Lycée possède un internat avec des places réservées pour les élèves des classes préparatoires.
+
+
+**Une place est réservée pour chaque élève de première année**
+
+ L'internat est l'idéal pour étudier en classe préparatoire :
+
+- Les élèves habitent sur place et n'ont pas besoin de se préparer à manger,
+- Les élèves travaillent ensemble le soir et peuvent s'entraider
+- Les frais sont faibles : 
+    - **1346 € l'année en pension complète,** 
+    - **522€ pour la demi-pension** ( pour l'année 2012-2013 )
+
+
+ [img/internat.jpg] 
+ | Quelques internes dans leur chambre 
+
+L'internat est ouvert du lundi matin à 8h au samedi midi ( Les cours commencent le lundi à 9h ) 
+
+Il est donc important pour les futurs étudiants qui ne peuvent pas rentrer chez eux le week-end de prévoir un hébergement pour les nuits du samedi et du dimanche.
+
+
+=Autres Hébergements à Troyes =
+Nos étudiants ont tendance à préférer l'internat tout le long de leurs études aux lombards mais d'autres solutions sont possibles pour des hébergements.
+
+==Le crous de Troyes==
+
+En tant que ville étudiante, Troyes dispose d'un CROUS ( Définition ) qui propose des chambres aux étudiants Troyens en centre-ville. Ces chambres ne sont pas réservées aux élèves des Lombards et sont attribués sur critères sociaux. 
+
+[Lien vers le site du crous de Troyes http://www.crous-reims.fr/logement/logements-a-troyes/]
+
+==Les appartements de l'UTT==
+
+L'Université de Technologie de Troyes, une école sur un campus proche du Lycée (10 min à pied), propose à la location ses chambres et appartements non occupés par ses élèves.
+
+
+%!include:footer.t2t

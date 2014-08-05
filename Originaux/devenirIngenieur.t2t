@@ -1,0 +1,45 @@
+Le métier d'ingénieur
+
+CPGE TSI Troyes
+
+
+%!includeconf : config.t2t
+''' >>img/banniere-ingenieur.jpg
+%!include : menu.t2t
+
+=Ingénieur : un titre qui cache des métiers variés =
+Le métier d'ingénieur regroupe des réalités très différentes, suivant les secteurs dans lequel il évolue. Mais il existe cependant un socle de compétences communes.
+
+== Un métier d'avenir ==
+Face aux défis actuels, qu'ils soient humains, environnementaux, techniques ou informatiques, les ingénieur(e)s possèdent, plus que jamais, un rôle important à jouer : imaginer les transports du futur, soigner de nouvelles maladies, faire baisser la faim dans le monde… autant de défis qui se posent aux ingénieur(e)s et aux futurs ingénieur(e)s.
+
+
+== La définition officielle ==
+Selon la Commission des Titres d'Ingénieur (CTI) , habilitée à conférer depuis 1934 le titre d'ingénieur:
+    
+    Le métier de base de l'ingénieur consiste à poser et résoudre de manière toujours plus performante des problèmes souvent complexes, liés à la conception, à la réalisation et à la mise en œuvre, au sein d'une organisation compétitive, de produits, de systèmes ou de services, éventuellement à leur financement et à leur commercialisation. A ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique.
+
+== Un rempart efficace contre le chômage ==
+Les ingénieur(e)s peuvent exercer des rôles différents (recherche & développement, conception, fabrication, exploitation, commerce, conseil, expertise…) dans de nombreux secteurs et donc bénéficier d'une grande variété de cadres de vie. Autonomes et flexibles, les ingénieur(e)s exercent des métiers à responsabilités.
+
+Les ingénieur(e)s connaissent une certaine sécurité de l'emploi : seuls 4,5 % des ingénieur(e)s sont au chômage (selon la CTI).
+
+''' <center>
+ [[img/jttf1.jpg] http://prepas.troyes.free.fr/images/Le_20_heures_du_22_novembre_2012.mp4] 
+ 
+[Cliquer sur l'image pour voir la vidéo extraite du JT de TF1 http://prepas.troyes.free.fr/images/Le_20_heures_du_22_novembre_2012.mp4]
+''' </center>
+
+Chez les jeunes diplômé(e)s, on constate un taux net d'emplois de 85%. 82,5 % des jeunes ingénieur(e)s ont trouvé leur premier emploi en moins de deux mois. 12 % sont en poursuite d’étude. Qui dit mieux?
+
+ [img/ingenieur1-redim.jpg] 
+% Pour retrouver les statistiques et les indicateurs, dirigez vous vers le site Enquête Insertion des jeunes diplômés 2012
+
+== Un niveau de vie attractif ==
+Peu de métiers offrent des salaires comme ceux constatés chez les jeunes ingénieur(e)s. Leur salaires sont attractifs : entre 33 000 et 38 000 € pour un premier poste et un salaire médian qui s'élève à plus de 52 000 € (selon la CTI ).
+ [img/ingenieur2-redim.jpg] 
+
+
+
+%!include:footer.t2t
+

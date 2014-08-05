@@ -1,0 +1,36 @@
+Enseignements
+
+CPGE TSI Troyes
+
+%!includeconf : config.t2t
+%%%>>img/enseignement.t2t
+%!include:menu.t2t
+
+%[img/tpSI.png] 
+
+  || En cours d'élaboration 
+   
+=Mathématiques=
+Le programme s’en tient à un cadre et à un vocabulaire théorique bien délimités, mais suffisamment efficaces pour l’étude de situations usuelles, et assez riches pour servir de support à une formation solide.
+
+Il a été conçu pour s’adapter aux intentions de la réforme des séries STI2D et STL. Les étudiants de cette série ont désormais pour vocation d’entrer dans un cycle long de formation supérieure : le programme de mathématiques se doit d’être d’une ambition réaliste.
+
+=Physique / Chimie =
+=Sciences Industrielles pour l'ingénieur=
+
+La complexité des systèmes et leur développement dans un contexte économique et écologique contraint requièrent des ingénieurs et des scientifiques, ayant des compétences scientifiques et technologiques de haut niveau, capables d’innover, de prévoir et maîtriser les performances de ces systèmes.
+
+ [img/Fatima_TP.jpg] 
+ | Fatima en TP de SII sur la cordeuse de raquette 
+
+Le programme de sciences industrielles de l’ingénieur s’inscrit dans la préparation des élèves à l’adaptabilité, la créativité et la communication nécessaires dans les métiers d’ingénieurs, de chercheurs et d’enseignants.
+
+=Anglais=
+
+=Français & Philosophie=
+
+=Les Travaux d'Initiative Personnelle Encadrés (TIPE)=
+Les T.I.P.E. sont une initiation à la recherche 
+
+=Informatique, Algorithmique et Base de données=
+%!include: footer.t2t

@@ -1,0 +1,10 @@
+Nous contacter
+
+CPGE TSI Troyes
+
+
+%!includeconf: config.t2t
+%!include: menu.t2t
+
+
+ || Votre message est bien envoyé. Nous tentons de vous répondre dans les plus brefs délais

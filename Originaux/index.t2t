@@ -1,0 +1,34 @@
+Classe Préparatoire TSI de Troyes
+
+CPGE TSI Troyes
+
+
+%!includeconf: config.t2t
+''' >>img/banniere-laVie.jpg
+%!include: menu.t2t
+
+
+
+Les classes préparatoires aux grandes Écoles option Technologie et Sciences Industrielles (CPGE TSI) du Lycée Les Lombards ont pour but de préparer les Bacheliers STI2D et STL option Sciences de Laboratoire aux concours d'entrée en école d'ingénieur.
+
+
+	**Portes ouvertes :**
+'''
+<ul>
+<li>Vendredi 21 mars de 17h à 20h </li>
+<li>Samedi 22 mars de 9h à 13h </li>
+</ul>
+'''
+= La Formation =
+[img/logolombards.png] 
+
+Unique structure de ce type dans l'Académie de Reims, la CPGE TSI de Troyes est une formation en 2 ans.
+
+Vous trouverez ici, en suivant les différents onglets, un rapide aperçu du métier d'ingénieur, une description de la formation, des renseignements sur les facilités d'hébergement. Pour vous faire une idée de l'ambiance en TSI, suivre La vie en TSI. Enfin, les résultats des élèves vous permettront de vous faire une idée sur les débouchés.
+
+Pour toute question, n'hésiter pas à nous contacter.
+
+Pour rejoindre nos élèves, la procédure d'inscription est détaillée en suivant les liens ci-contre.
+
+
+%!include: footer.t2t
