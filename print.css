@@ -1,0 +1,54 @@
+@page { 
+	size: portrait;
+	margin: 0;
+	border : none;
+}
+
+#body {
+	background-color : #fff;
+	font-family : Serif;
+	font-size : 12 pt;
+}
+
+#body h1 {
+  font-size: 160%;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #000;
+}
+
+blockquote {
+	background-color: #D8D8D8;
+	font-size	: 110%;
+	padding		: .8em .8em;
+	border-color	: #67939B;
+	border-radius	: 10px;
+	border-style	: solid;
+	font-weight	: bold;
+	margin	:	auto;
+	text-align:	center;
+	width : auto;
+}
+
+#contenu {
+	margin-right: 14em;
+	overflow: hidden;
+	padding: 0 2em 0em ;
+}
+
+#encart
+	{
+	float		: right;
+    width		: 11.5em;
+	background-color: #E0E0E0;
+	color		: #000;
+	border-radius : 5px;
+	border-style	: solid;
+	border-color :	#000;
+	border-width	: 1px;
+	padding		: 1em;
+	_width		: 11.5em;
+	}
+
+#sidebar{
+	display : none ;
+}
