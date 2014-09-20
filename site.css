@@ -149,15 +149,13 @@ img
 	{
 	background	: #464F53;
 	color		: white;
-/*
 	border-top-left-radius : 1em;
 	border-top-right-radius : 1em;
-*/
 	border-bottom: 5px solid #67939B;
 /*
 	margin		: 0 -1em ;
 */
-	margin		: 0 ;
+	margin		: 1em 0 0 0 ;
 	padding		: 1em;
 	}
 
@@ -365,12 +363,14 @@ img
 		padding: 0;
 		width: 100%;
 		
+/*
 		border-bottom-left-radius: 5px;
 		border-bottom-right-radius: 5px;
 		-moz-border-bottom-left-radius: 5px;
 		-moz-border-bottom-right-radius: 5px;
 		-webkit-border-bottom-left-radius: 5px;
 		-webkit-border-bottom-right-radius: 5px;
+*/
 		}
 	
 #nav ul {list-style: none; margin: auto auto;}
