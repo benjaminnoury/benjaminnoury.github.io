@@ -187,7 +187,7 @@ img
 
 #contenu {
 	background: #F3EBEB;
-	border-radius: 0px;
+	border-radius: 0 0 10px 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 /*
@@ -384,16 +384,10 @@ img
 
 #footer
 	{
-	margin		: 0em 0 0 0;
-/*
+	margin		: 1em 0 0 0;
 	padding		: .3em;
-*/
-/*
 	border-top	: 1px solid #ccc;
-*/
-	font-size	: 300%;
-	color		: #F3EBEB; 
-/*
+	font-size	: 70%;
+	color		: #333333; 
 	clear		: both;
-*/
 	}
