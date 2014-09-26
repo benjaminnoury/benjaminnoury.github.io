@@ -1,0 +1,20 @@
+Classe Préparatoire TSI de Troyes
+
+Accueil
+
+
+%!includeconf: config/config.t2t
+%!include: config/menu.t2t
+
+=Emplois du temps=
+
+% todo Nouvelles
+
+''' <center>
+
+%!include: ''inc/EDT_2014-2015.html''
+
+''' </center>
+
+
+%!include: config/footer.t2t

@@ -36,8 +36,9 @@
 
 <DIV id="Contenu">
 <P>
-<B>Dernière mise à jour : 26/09/2014</B>
+<B>Dernière mise à jour : 25/09/2014</B>
 </P>
+<br/>
 <table cellspacing="0" border="0">
 	<colgroup width="85"></colgroup>
 	<colgroup width="28"></colgroup>
@@ -79,8 +80,8 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle><font color="#000000"><br></font></td>
 	</tr>
 	<tr>
-		<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#9999FF"><font color="#000000"><a href="./doc/201-revision/TD2-ActionsReparties.pdf">TD2 - Barrage Poid</a></font></td>
-		<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#9999FF"><font color="#000000">Corrigé Grue Potain</font></td>
+		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#9999FF"><font color="#000000"><a href="./doc/201-revision/TD2-ActionsReparties.pdf">TD2 - Barrage Poid</a></font></td>
+		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#9999FF"><font color="#000000">Corrigé Grue Potain</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle><font color="#000000"><br></font></td>
 	</tr>
 	<tr>
@@ -90,27 +91,31 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=2 align="center" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/RDM_eleves%20-%20Partie%201.pdf">Sollicitation des solides déformables</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=2 align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Déterminer le torseur de cohésion dans un solide<br>- Déterminer le type de sollicitation dans un solide</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Hypothèses de la RDM<br>- Le modèle poutre<br>- Coupure virtuelle<br>- sollicitations d'une poutre</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/TD1%20-%20Torseur%20de%20cohésion.pdf">TD1 - Calcul de torseurs de cohésion</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"><br></font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=3 align="center" valign=middle bgcolor="#FFCC99" sdval="38" sdnum="1036;"><font color="#000000">38</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=3 align="center" valign=middle bgcolor="#FFCC99" sdval="3" sdnum="1036;"><font color="#000000">3</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Sollicitation par des actions réparties</font></td>
-		<td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/TD2-Traction.pdf">TD2 - Poutre en traction</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=3 align="center" valign=middle bgcolor="#6699CC"><font color="#000000"><a href="./doc/202-RDM/DS%201.pdf">DS1</a><br>Statique<br>Torseur de cohésion </font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/RDM_eleves-Dimensionnement.pdf">Critères de Résistance des matériaux</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Dimensionner à la rupture un système matériel<br>- Déterminer un coefficient de sécurité</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Notions de contrainte et de déformation<br>- Loi de Hooke<br>- Poutre sollicitée en traction</font></td>
-		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/TD3%20-%20Ascenseur%20de%20la%20tour%20Eiffel.pdf">TD3 - Ascenseur de la tour Eiffel</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
 		</tr>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/RDM_eleves-Traction.pdf">Poutre en traction pure</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000">- Déterminer l'état de contrainte dans une poutre en traction pure<br>- Dimensionner une poutre en traction pure à la rupture et à la déformation</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
-		<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><a href="./doc/202-RDM/TD4-Mesure%20de%20cavité%20souterraine.pdf">TD4 - Mesure de Cavité souterraine</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=middle bgcolor="#FFCC99"><font color="#000000"><br></font></td>
 		</tr>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle bgcolor="#FFCC99" sdval="39" sdnum="1036;"><font color="#000000">39</font></td>
