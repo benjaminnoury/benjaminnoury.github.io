@@ -95,10 +95,12 @@ pre
 	border		: 1px outset gray;
 	}
 
+/*
 table
 	{
-	font-size	: 100%; /* Needed to inherit the body font size*/
+	font-size	: 100%; 
 	border-color	: #ccc;
+	border-style	: solid;
 	}
 th
 	{
@@ -113,6 +115,30 @@ td
 	border-style	: none;
 	padding		: .2em .5em;
 	}
+*/
+table {
+/*
+	font-family: verdana,arial,sans-serif;
+*/
+	font-size: 75%;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: none;
+	border-color: #666666;
+}
 
 form
 	{
