@@ -11,7 +11,7 @@ html{ margin : 0 ; background :#D8D8D8 url(img/bkg.png);}
 /*
 html{ margin : 0 ; background :#D8D8D8;}
 */
-html{ margin : 0 ; background :#D8D8D8 url(inc/bkg.png);}
+html{ margin : 0 ; background :#D8D8D8 url(/inc/bkg.png);}
 body
 	{
 	min-width: 930px;
