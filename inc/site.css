@@ -210,6 +210,17 @@ img
 }
 */
 
+div#nouvelles {
+	float:left;
+	width:15em;
+/*
+	height:60em%;
+*/
+	background-color:#464F53;
+	color:#F3EBEB;
+}
+
+
 #contenu {
 	background: #F3EBEB;
 	border-radius: 0 0 10px 10px;
@@ -259,25 +270,21 @@ img
 
 #sidebar
 	{
-	position: fixed;
-	top: 0;
-	left: 0;
-	height: 100%;
-	font: 40%;
-	width		: 12em;
+	float		: left;
+    width		: 11.5em;
 	background-color: #464F53;
-	color		: #FFFFFF;
-	border-color	: #FFFFFF;
+	color		: #030;
+	border-radius : 5px;
 	border-style	: solid;
-	border-width	: 0 0 0 3px;
-	margin		: 0 0 0 -1.8em;
+	border-width	: 0px;
+	border-color	: #67939B;
+	margin		: 1em 1em 1em 0em;
 	padding		: 1em;
 	z-index		: 1;
-	overflow: auto;
+	/* IE: Box model strikes again */
 	_width		: 11.5em;
-	_margin		: 0 0 0 1em;
-	}
-	
+	_margin		: 0 -1em 0 2em;
+}	
 #sidebar a
 	{
 	font : 40% ;
@@ -301,6 +308,7 @@ img
 #sidebar p
 	{
 	margin		: 0;
+	color : #F3EBEB;
 	}
 #sidebar img
 	{
