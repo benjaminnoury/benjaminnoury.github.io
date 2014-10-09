@@ -419,7 +419,9 @@ div#nouvelles {
 	{
 	margin		: 1em 0 0 0;
 	padding		: .3em;
+/*
 	border-top	: 1px solid #ccc;
+*/
 	font-size	: 70%;
 	color		: #333333; 
 	clear		: both;
