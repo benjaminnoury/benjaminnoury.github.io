@@ -129,8 +129,11 @@ table th {
 table td {
 	border-width: 1px;
 	padding: 8px;
-	border-style: none;
 	border-color: #666666;
+}
+
+#tableau_ecole{
+	border-style: solid;
 }
 
 form

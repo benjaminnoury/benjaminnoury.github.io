@@ -1,7 +1,0 @@
-AuthUserFile /inc/.login
-AuthGroupFile /dev/null
-AuthName "Acces Restreint"
-AuthType Basic
-<Limit GET POST>
-require valid-user
-</Limit>
