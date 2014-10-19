@@ -5,12 +5,14 @@
 
 
 /***************************** GLOBAL ****************************/
-html{ margin : 0 ; background :#D8D8D8 url(bkg.png);}
+html{ height: 100%; padding: 0; margin : 0 ; background :#D8D8D8 url(bkg.png);}
 body
 	{
+	height: 100%
+	min-height: 100%;
 	min-width: 930px;
 	max-width: 1200px;
-	font-size	: 14px;
+	font-size	: 13px;
 	background-color: transparent;
 	color		: #444;
 	margin		: auto;	
@@ -88,31 +90,9 @@ pre
 	border		: 1px outset gray;
 	}
 
-/*
-table
-	{
-	font-size	: 100%; 
-	border-color	: #ccc;
-	border-style	: solid;
-	}
-th
-	{
-	background-color: #D8D8D8;
-	font-size	: 110%;
-	padding		: .5em .5em;
-	border-color	: #67939B;
-	border-style	: solid;
-	}
-td
-	{
-	border-style	: none;
-	padding		: .2em .5em;
-	}
-*/
+
 table {
-/*
-	font-family: verdana,arial,sans-serif;
-*/
+
 	font-size: 75%;
 	color:#333333;
 	border-width: 1px;
@@ -395,24 +375,72 @@ div#nouvelles {
 		font-size: 90%;
 		height: 4em;
 		line-height: 3em;
-		margin: auto;
-		padding: 0;
+		margin: 0;
+		padding: 0;	
 		width: 100%;
-		
-/*
-		border-bottom-left-radius: 5px;
-		border-bottom-right-radius: 5px;
-		-moz-border-bottom-left-radius: 5px;
-		-moz-border-bottom-right-radius: 5px;
-		-webkit-border-bottom-left-radius: 5px;
-		-webkit-border-bottom-right-radius: 5px;
-*/
 		}
 	
 #nav ul {list-style: none; margin: auto auto;}
 #nav li { display: inline; margin: 0;}
 #nav a:link, #nav a:visited { color: #fff;	display: inline-block;	height: 3em; 	padding: .5em 1.5em; margin : auto 0; 	text-decoration: none; }
 #nav a:hover, #nav a:active,#nav .active a:link, #nav .active a:visited {background: #67939B; color: #fff; text-shadow: none !important;}
+
+
+/************************* Nouvelles***********************
+/ pour les nouvelles sur la 1ere page
+*/
+body#nouvelles dt
+	{
+	margin-top	: 2em;
+	font-size	: 150%;
+	color		: #464F53;
+	}
+body#nouvelles dt i
+	{
+	font-size	: 60%;
+	color		: #3C3C3C;
+	}
+	
+	
+/******************* Pour l'anglais **************************
+/
+*/
+
+dl.anglais
+{
+/*
+border: 1px solid #000;
+*/
+/*
+background-color: #ddd;
+*/
+/*
+width: 102px;
+*/
+text-align: left;
+padding: 10px;
+float: left;
+margin-right: 1em;
+}
+
+.anglais dt { font-weight: bold; }
+
+/*
+.anglais dt img
+{
+border: 1px solid #000;
+width: 100px;
+height: 100px;
+}
+*/
+
+.anglais dd
+{
+margin: 0;
+padding: 0;
+}
+
+
 
 /****************************** FOOTER **************************** 
 / Juste une p'tite ligne pour le principe
