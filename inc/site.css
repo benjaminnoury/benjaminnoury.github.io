@@ -5,7 +5,11 @@
 
 
 /***************************** GLOBAL ****************************/
+html{ height: 100%; padding: 0; margin : 0 ; background :#D8D8D8;}
+/*
 html{ height: 100%; padding: 0; margin : 0 ; background :#D8D8D8 url(bkg.png);}
+html{ height: 100%; padding: 0; margin : 0 ; background :#464F53;}
+*/
 body
 	{
 	height: 100%
@@ -151,13 +155,15 @@ img
 	{
 	background	: #464F53;
 	color		: white;
+/*
 	border-top-left-radius : 1em;
 	border-top-right-radius : 1em;
-	border-bottom: 5px solid #67939B;
-/*
-	margin		: 0 -1em ;
 */
+	border-bottom: 5px solid #67939B;
+	margin		: 0 ;
+/*
 	margin		: 1em 0 0 0 ;
+*/
 	padding		: 1em;
 	}
 
@@ -425,15 +431,6 @@ margin-right: 1em;
 
 .anglais dt { font-weight: bold; }
 
-/*
-.anglais dt img
-{
-border: 1px solid #000;
-width: 100px;
-height: 100px;
-}
-*/
-
 .anglais dd
 {
 margin: 0;
@@ -446,14 +443,16 @@ padding: 0;
 / Juste une p'tite ligne pour le principe
 */
 
-#footer
-	{
-	margin		: 1em 0 0 0;
-	padding		: .3em;
-/*
-	border-top	: 1px solid #ccc;
-*/
-	font-size	: 70%;
-	color		: #333333; 
-	clear		: both;
-	}
+#footer {
+	padding: 10px 20px;
+	font-size: .7em;
+}
+#footer p {
+	margin: .1em 0;
+}
+#footer #gauche {
+	float: left;
+}
+#footer #copyright {
+	float: right;
+}
